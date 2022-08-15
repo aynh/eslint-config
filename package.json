@@ -1,8 +1,8 @@
 {
 	"name": "@aynh/eslint-config",
 	"author": "Ahmad Yasser <aynlazur@gmail.com>",
-	"version": "1.0.0",
-	"description": "My shareable config (ESLint, prettier)",
+	"version": "1.0.1",
+	"description": "My shareable eslint-config (and prettier)",
 	"license": "MIT",
 	"main": ".eslintrc.js",
 	"files": [
@@ -33,10 +33,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Aynh/shareable-config.git"
+		"url": "git+https://github.com/Aynh/eslint-config.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Aynh/shareable-config/issues"
+		"url": "https://github.com/Aynh/eslint-config/issues"
 	},
-	"homepage": "https://github.com/Aynh/shareable-config"
+	"homepage": "https://github.com/Aynh/eslint-config"
 }
